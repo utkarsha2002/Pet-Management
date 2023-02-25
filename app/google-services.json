@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1074403433322",
+    "project_id": "pet-management-d24d3",
+    "storage_bucket": "pet-management-d24d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074403433322:android:84a156bf7552e08b1c2313",
+        "android_client_info": {
+          "package_name": "com.example.petmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074403433322-em3k8etehjmd605a9o620b5ikf3irqct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPs9Mql0XQwZtUBnpnLABfChUuB1jwRjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074403433322-em3k8etehjmd605a9o620b5ikf3irqct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
